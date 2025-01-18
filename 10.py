@@ -1,3 +1,1 @@
-fruits = ['apple', 'banana', 'cherry']
-a, b, c = fruits
-print(a)
+print(int(35.88))
