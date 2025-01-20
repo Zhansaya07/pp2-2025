@@ -1,5 +1,5 @@
 x = 'awesome'
 def myfunc():
-  x = 'fantastic'
+  x = ' fantastic'
 myfunc()
-print('Python is ' + x)
+print('Python is' + x)
