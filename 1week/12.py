@@ -1,2 +1,2 @@
-x = 'Welcome'
-print(x[3])
+a = 'Welcome'
+print(a[3])
