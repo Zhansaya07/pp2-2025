@@ -1,2 +1,2 @@
-myvar = 'Zhansaya'
-print(type(myvar))
+name = 'Zhansaya'
+print(type(name))
