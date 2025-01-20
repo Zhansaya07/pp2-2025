@@ -1,4 +1,4 @@
 x = "John"
-# is the same as
+#is the same as
 x = 'John'
 print("YES")
