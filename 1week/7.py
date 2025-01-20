@@ -1,2 +1,2 @@
-x=y=z="Hello, World!"
+x=y=z="Hello, world!"
 print(x,y,z)
